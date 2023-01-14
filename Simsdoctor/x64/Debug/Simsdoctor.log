@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\dev\source\gen3\Simsdoctor\Simsdoctor\src\main.cpp(136,20): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+D:\dev\source\gen3\Simsdoctor\Simsdoctor\src\main.cpp(198,19): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+D:\dev\source\gen3\Simsdoctor\Simsdoctor\src\main.cpp(200,13): warning C4244: 'initializing': conversion from 'const uint64_t' to 'int', possible loss of data
+D:\dev\source\gen3\Simsdoctor\Simsdoctor\src\main.cpp(401,15): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+D:\dev\source\gen3\Simsdoctor\Simsdoctor\src\main.cpp(405,15): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+D:\dev\source\gen3\Simsdoctor\Simsdoctor\src\main.cpp(416,15): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+D:\dev\source\gen3\Simsdoctor\Simsdoctor\src\main.cpp(428,15): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+  Simsdoctor.vcxproj -> D:\dev\source\gen3\Simsdoctor\x64\Debug\Simsdoctor.exe
