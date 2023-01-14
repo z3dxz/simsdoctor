@@ -13,3 +13,5 @@ Places them into correponding folders
 <b>Edit "root" varriable in the FindGame function if the sims is stored on something other than the C drive.</b>
 
 Compile using Visual Studio 2022
+
+Make sure to download https://aka.ms/vs/17/release/vc_redist.x64.exe when using the releases
