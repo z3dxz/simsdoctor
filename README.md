@@ -10,4 +10,4 @@ Automatically divides folder to test areas
 
 Places them into correponding folders
 
-Edit "root" varriabled in the FindGame function if the sims is stored on something other than the C drive.
+<b>Edit "root" varriable in the FindGame function if the sims is stored on something other than the C drive.</b>
